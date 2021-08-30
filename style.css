@@ -5,3 +5,7 @@ Selektor{
 body{
   background: red;
  } 
+h1 {
+  font-size: 30pt;
+  font-family: sans-serif;
+ } 
