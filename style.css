@@ -1,1 +1,7 @@
-
+Selektor{
+  Attribute: wert;
+  Attribute: wert2;
+  
+body{
+  background-color: red;
+ } 
